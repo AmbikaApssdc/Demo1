@@ -1,0 +1,39 @@
+mkdir folder
+cd foldername
+git init
+git config --global user.name "Github username"
+git config --global user.email github email
+touch filename
+touch {a .. e}
+git status
+git add filename
+git add .
+git rm --cached filename
+git commit -m "commit message"
+git log
+git log --oneline
+git commit --amend -m "changable commit message"
+nano filename
+git checkout shakey
+cat filename
+ls
+ls -a
+git remote add remotename giturl
+git push remotename branchname
+
+
+create new repository with name epics project
+push your abstarct into the new repository
+
+
+
+
+
+
+
+
+
+
+
+
+
